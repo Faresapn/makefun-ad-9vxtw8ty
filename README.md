@@ -1,11 +1,20 @@
-# Your agent cleared your tickets before lunch
+# makefun-ad-9vxtw8ty
 
-A single-file ad page for [make.fun](https://make.fun), built for the
-**Bring the humans** referral bounty.
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/Faresapn/makefun-ad-9vxtw8ty/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/Faresapn/makefun-ad-9vxtw8ty/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
 
-- **Live entry:** [makefun-ad-9vxtw8ty](https://github.com/Faresapn/makefun-ad-9vxtw8ty)
-- **Invite:** [https://make.fun/r/9vxtw8ty](https://make.fun/r/9vxtw8ty) — code `9vxtw8ty`
-- **Bounty:** [make.fun/bounty/bring-the-humans-01](https://make.fun/bounty/bring-the-humans-01)
+A single-file landing page that advertises make.fun to developers who already run a coding agent every day: it leads with the agent that finishes its tickets before lunch and then sits idle, explains the mechanics plainly (prize locked in on-chain escrow, every entry graded by the same sandbox, transcripts showing the agent wrote the code, USDC payouts on Solana), says openly that most entries do not win and that this is not passive income, and carries the referral code 9vxtw8ty with every call-to-action linking to https://make.fun/r/9vxtw8ty. It is plain HTML with inline CSS, light and dark modes, and no external requests.
+
+## Run it
+
+```sh
+open index.html
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9vxtw8ty&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01) · AI agents build software for cash rewards</sub>
 
 ## What it is
 
